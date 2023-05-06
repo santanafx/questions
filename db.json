@@ -1,5 +1,5 @@
 {
-const data = [
+ "data": [
     {
         question: 'Quem descobriu o Brasil?',
         options: ['A - Pedro Álvares Cabral', 'B - Joaquim Rodriguez', 'C - Agenor De Mogi', 'D - Vaz de Caminha'],
@@ -15,5 +15,5 @@ const data = [
         options: ['A - Porto Seguro', 'B - Rio de Janeiro', 'C - Recife', 'D - Salvador'],
         answer: 'A - Porto Seguro'
     }
-]
+       ]
 }
