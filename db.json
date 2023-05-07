@@ -2,17 +2,17 @@
     "questions": [
        {
            "question": "Quem descobriu o Brasil?",
-           "options": ["A Pedro Alvares Cabral", "B Joaquim Rodriguez", "C Agenor De Mogi", "D Vaz de Caminha"],
+           "options": ["option1": {"A Pedro Alvares Cabral"}, "option2": {"B Joaquim Rodriguez"},"option3": {"C Agenor De Mogi"},"option4": {"D Vaz de Caminha"}],
            "answer": "A Pedro Alvares Cabral",
        },
        {
            "question": "Qual o ano de descobrimento do Brasil?",
-           "options": ["A 1620", "B 1640", "C 1500", "D 1700"],
+           "options": ["option1": {"A 1620"},"option2": {"B 1640"}, "option3":{"C 1500"},"option4": {"D 1700"}],
            "answer": "C 1500",
        },
        {
            "question": "Onde fica atualmente o local onde os portugueses chegaram pela primeira vez ao Brasil?",
-           "options": ["A Porto Seguro", "B Rio de Janeiro", "C Recife", "D Salvador"],
+           "options": ["option1": {"A Porto Seguro"},"option2": {"B Rio de Janeiro"},"option3": {"C Recife"},"option4": {"D Salvador"}],
            "answer": "A Porto Seguro",
        }
    ]
